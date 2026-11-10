@@ -6,7 +6,7 @@
 
 | Projeto | Repositório | Branch de partida / entrega | Pontuação |
 |---|---|---|---|
-| App de Gestão e Rotina Pet | `pet-routine-expo` | `feature/mini-projeto` | **0,0 a 3,0 pts** |
+| App de Gestão e Rotina Pet | `pet-routine-expo` | `main` | **0,0 a 3,0 pts** |
 
 ---
 
@@ -16,7 +16,7 @@ Na Unidade 1 (Aulas 1 a 5 — Práticas 1 a 3), vocês modelaram o domínio `Pet
 
 Neste **Mini-Projeto da Segunda Unidade**, a sua missão é **finalizar o desenvolvimento do aplicativo de ponta a ponta**, aplicando na prática o conteúdo das **Aulas 6 a 10**, integrando o app ao **backend oficial fornecido pelo professor** na pasta `./backend`, **reformulando a UI/UX** da aplicação e entregando o **Relatório de Uso de Inteligência Artificial**.
 
-### O que já vem pronto nesta branch (`feature/mini-projeto`)
+### O que já vem pronto nesta branch (`main`)
 
 1. **Práticas 1 a 3 concluídas** em `src/` e `App.tsx` (ponto de partida funcional).
 2. **Backend REST completo (`./backend`)** fornecido pelo professor em **Node.js + Express + SQLite + JWT**, já configurado com rotas de autenticação (`/api/auth/*`), CRUD completo de pets (`/pets` e `/api/pets`) e uma conta de demonstração pré-populada com 20 pets (`tutor@cesar.school` / senha `123456`).

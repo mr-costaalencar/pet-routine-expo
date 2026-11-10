@@ -1,7 +1,7 @@
 # Pet Routine Expo
 
 **Disciplina:** Desenvolvimento Mobile (2026.2.DM) — CESAR School
-**Branch:** `feature/mini-projeto`
+**Branch:** `main`
 
 ## Sobre o projeto
 
